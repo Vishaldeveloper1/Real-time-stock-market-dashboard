@@ -117,13 +117,3 @@ You can easily modify the list of stock symbols monitored in real-time by editin
 
   * **Data Fetching Errors**: If no data is returned for a given ticker, an error message will be displayed. Ensure that the ticker symbol is correct and try again.
 
-## Contributing
-
-Contributions are welcome! If you have ideas for new features, elements, or enhancements, feel free to fork the repository and submit a pull request. Please ensure your code follows geenral best practices and is well-documented.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-For questions or support, please contact me at peter_graham@brown.edu.
